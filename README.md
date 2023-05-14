@@ -86,7 +86,7 @@ This health and wellness web platform offers users a range of tools and features
         <li><a href="https://github.com/Avneesh0022">Avneesh Grover (Team Member)</a></li>
   </ul>
 
-### This is a collaborative project built by a team of 4 fullstack web developers and executed in 5 days.
+### This is a collaborative project built by a team of 4 fullstack web developers and executed in 2 days.
 
 <br/><br/>
 
