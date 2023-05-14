@@ -56,10 +56,7 @@ This health and wellness web platform offers users a range of tools and features
 <br/>
 
 <ul dir="auto">
-  <ol dir="auto">◉ Typescript : 1.6%</ol>
- <ol dir="auto">◉ JavaScript : 98.4%</ol>
- <ol dir="auto">◉ HTML : 1.6%</ol>
-  <ol dir="auto">◉ CSS : 1.6%</ol>
+ <ol dir="auto">◉ JavaScript : 100%</ol>
  </ul>
  
 ### This report is provided by the Github language used stats. So, this is the total percentage of the coding languages.
