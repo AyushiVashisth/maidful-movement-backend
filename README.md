@@ -54,6 +54,7 @@ This health and wellness web platform offers users a range of tools and features
 - Data fetching from Backend. 
 
 <br/>
+# language:
 
 <ul dir="auto">
  <ol dir="auto">◉ JavaScript : 100%</ol>
